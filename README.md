@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Malik Shaikh
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Angular, React and NodeJS
-- 💞️ I’m looking to collaborate on HTML, CSS, JavaScript, Python
+- 💞️ I’m looking to collaborate on HTML, CSS, JavaScript, Java
 - 📫 How to reach me @github.com/Malik2206
 
 <!---
